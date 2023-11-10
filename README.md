@@ -30,5 +30,3 @@
 <hr>
 
 If you want to collab with me, here's my e-mail: <a href="alejandrosj159@hotmail.com"><img width="45px" src="https://logos-world.net/wp-content/uploads/2021/02/Outlook-Symbol.png" alt="E-mail"/></a>
-
-<img align="right" height="150px" alt="Dr Strange" src="https://www.nicepng.com/png/full/139-1390846_vectores-lineas-png-vectores-de-lineas-decorativas-png.png"/>
